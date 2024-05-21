@@ -7,4 +7,8 @@ passsword:FFNFO3F25XT7PZTEFXENHLI5Y2JFOY7F
 
 front end:
 implemented the home page and styles sheet 
-have to implement redir
+have to implement fully the other pages and yet to implement back end 
+
+TO DO:
+Create api
+implement other pages
