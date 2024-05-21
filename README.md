@@ -4,3 +4,7 @@ DB Server: uaing phpmyadmin
 host: https://wheatley.cs.up.ac.za/
 db name: u22520750_221
 passsword:FFNFO3F25XT7PZTEFXENHLI5Y2JFOY7F
+
+front end:
+implemented the home page and styles sheet 
+have to implement redir
