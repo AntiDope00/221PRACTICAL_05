@@ -1,9 +1,11 @@
 # 221PRACTICAL_05
 
 DB Server: uaing phpmyadmin
-host: https://wheatley.cs.up.ac.za/
-db name: u22520750_221
-passsword:FFNFO3F25XT7PZTEFXENHLI5Y2JFOY7F
+host: https://wheatley.cs.up.ac.za/phpmyadmin
+db name: U22599160_HoopStreaming
+passsword:5XZOHUAVB2N7IYLG3IA4V2K2W6ZY4GVS
+user: U22599160
+
 
 
 databse:
